@@ -1,0 +1,113 @@
+@media all and (max-width:991px){
+	
+    .contact{
+		width:100%;
+		text-align:Center;
+	}
+	.quite{
+		width:100%;
+		text-align: center;
+	}
+    .address,
+    .links{
+        margin: 20px 0px;
+    }
+    .overfooter-area  .section-padding{
+        padding: 60px 0px;
+    }
+}
+@media all and (max-width:767px){
+    .logo{
+		width:100%;
+		text-align:center;
+        margin: 23px 0px;
+	}
+	.mainmenu{
+		width:100%;
+		text-align: center;
+	}
+    .mainmenu ul li{
+        margin-left: 0px;
+        padding: 10px 13px;
+    }
+    .body-contact .contact-info{
+    padding: 0px;
+    margin-top: 20px;
+    }
+    .emargency-call{
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .emargency-call i{
+        float: none;
+    }
+    .emargency-call a{
+        display: inline-block;
+    }
+    .emargency-call span{
+        margin-left: 0;
+    }
+    .contact-btn{
+        width: 100%;
+    }
+    .counter-text{
+        margin: 20px 0px;
+    }
+    
+    .sticky{
+        position: static;
+    }
+    .offset-2{
+        margin-left: 0px;
+    }
+    .slicknav_menu{
+        display: block;
+    }
+    #menu{
+        display: none;
+    }
+    .contact-info{
+        padding: 10px 0px 0px 0px !important;
+    }
+    .contact-info ul li:last-child{
+        padding-bottom: 0px !important;
+    }
+    .aboutus-images{
+        margin-top: 15px;
+    }
+}
+
+@media all and (max-width:540px){
+    .isotop ul li{
+        display: block;
+        margin: 10px 0px;
+    }
+}
+@media all and (max-width:500px){
+    .slider-text h1{
+    font-size: 25px;
+        line-height: 30px;
+    }
+
+    .slider-text h5{
+    font-size: 15px;
+    }
+
+    .slider-text a,
+    .slider-text a.active{
+    font-size: 10px;
+    }
+    
+    .banner-area .owl-dots{
+        right: 38px;
+    }
+}
+
+@media all and (max-width: 400px){
+    .quite a input[type="text"]{
+        margin-top: 15px !important;
+    }
+    .banner-area{
+        padding: 120px 0px !important;
+    }
+}
